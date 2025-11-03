@@ -1,20 +1,20 @@
-### Hi there 👋   
+### Hi there 👋
 
----
-## Socials
-- <a href="https://twitter.com/humzakt"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30" height="30" />  humzakt </a>
-- <a href="https://linkedin.com/in/humzakt"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30" />  humzakt</a>
-
----
-## Current Tech Stack
-- Give me a task and I will get adjusted to a relevant Stack
----
-### What am I up to?
-#### Lots and lots of development stuff
+I'm an AI Engineer at **[Turing](https://www.turing.com)**, where I build intelligent systems and automations that bridge the gap between foundational models and practical, scalable software.
 
 ---
 
-- 👯 I’m looking to collaborate on freelance mobile and web development projects.
-- 📫 How to reach me: 
-  -- [Twitter](https://twitter.com/humzakt)
-  -- [LinkedIn](https://linkedin.com/in/humzakt)
+### What I'm Currently Working On
+
+*   🤖 Architecting and developing **agentic automations** to streamline internal development workflows.
+*   🚀 Building robust backend services with a modern tech stack: `Python`, `FastAPI`, `RAG`, `PostgreSQL`, `Redis`, and `GCP`.
+
+### My Background
+
+*   🧠 Previously, I specialized in enhancing LLMs through **Reinforcement Learning from Human Feedback (RLHF)**, reasoning tasks, and Code Interpreter development for industry leaders like **Apple, Meta, and Bytedance**.
+*   📈 I progressed from an LLM Developer to a **Pod Lead**, where I managed a globally-distributed team of 10+ AI trainers, ensuring the delivery of high-quality model evaluations.
+
+---
+
+*   🤝 **Open to collaboration on:** Innovative AI integration projects and agentic systems.
+*   📫 **Find me on:** **[LinkedIn](https://linkedin.com/in/humzakt)**
