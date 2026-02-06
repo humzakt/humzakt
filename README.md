@@ -1,20 +1,38 @@
-### Hi there 👋
+## Hey, I'm Humza
 
-I'm an AI Engineer at **[Turing](https://www.turing.com)**, where I build intelligent systems and automations that bridge the gap between foundational models and practical, scalable software.
+AI Engineer who ships GenAI solutions with enterprise clients. IEEE-published researcher. I build with AI-native tools and believe the best engineers will be the ones who learn to work *with* AI, not around it.
+
+**Currently:** Software Engineer @ [Turing](https://www.turing.com) — building agentic automations and backend services on GCP.
+
+**Previously:** Fine-tuned LLMs for **Apple, Meta, and Bytedance**. Delivered GenAI integrations for **Fortune 500 clients** at Royal Cyber. Published at **IEEE EMBC 2025** on explainable AI for medical imaging.
+
+### What I work with
+
+```
+AI/ML        Agentic Systems · RAG · RLHF · LLM Fine-Tuning · PyTorch · LangChain
+Backend      Python · FastAPI · PostgreSQL · Redis · Microservices
+Cloud        GCP · AWS · Docker · CI/CD
+Enterprise   Mulesoft · Salesforce · Apache Kafka · IBM ACE/MQ
+AI Tools     Cursor · OpenAI Codex · Claude Code · GitHub Copilot
+```
+
+### Highlights
+
+- Shipped GenAI solutions for Apple, Meta, Bytedance, and Fortune 500 clients
+- Built AI agents that reduced client workloads by 60%
+- Led a distributed team of 10+ engineers across 3 continents
+- IEEE EMBC 2025 — [OptiGuard: Explainable Glaucoma Classification](https://ieeexplore.ieee.org/document/11253669)
+- IBM Certified Cloud Automation Sales Consultant
+- Mulesoft Certified Developer — Level 1
+- Microsoft Certified: Power Platform Fundamentals (PL-900)
+
+### Let's connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-humzakt.github.io-0a192f?style=flat-square&logo=google-chrome&logoColor=64ffda)](https://humzakt.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-humzakt-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humzakt)
+[![Email](https://img.shields.io/badge/Email-humzakhawartareen@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:humzakhawartareen@gmail.com)
+[![IEEE](https://img.shields.io/badge/IEEE-OptiGuard-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11253669)
 
 ---
 
-### What I'm Currently Working On
-
-*   🤖 Architecting and developing **agentic automations** to streamline internal development workflows.
-*   🚀 Building robust backend services with a modern tech stack: `Python`, `FastAPI`, `RAG`, `PostgreSQL`, `Redis`, and `GCP`.
-
-### My Background
-
-*   🧠 Previously, I specialized in enhancing LLMs through **Reinforcement Learning from Human Feedback (RLHF)**, reasoning tasks, and Code Interpreter development for industry leaders like **Apple, Meta, and Bytedance**.
-*   📈 I progressed from an LLM Developer to a **Pod Lead**, where I managed a globally-distributed team of 10+ AI trainers, ensuring the delivery of high-quality model evaluations.
-
----
-
-*   🤝 **Open to collaboration on:** Innovative AI integration projects and agentic systems.
-*   📫 **Find me on:** **[LinkedIn](https://linkedin.com/in/humzakt)**
+*Open to GTM Engineering, Forward Deployed, Solutions Engineering, AI, and PhD opportunities.*
