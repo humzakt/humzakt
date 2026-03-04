@@ -16,6 +16,23 @@ Enterprise   Mulesoft · Salesforce · Apache Kafka · IBM ACE/MQ
 AI Tools     Cursor · OpenAI Codex · Claude Code · GitHub Copilot
 ```
 
+### Open Source
+
+[![dev-starter-kit](https://img.shields.io/badge/dev--starter--kit-Clone_&_Ship-64ffda?style=for-the-badge&logo=github&logoColor=0a192f)](https://github.com/humzakt/dev-starter-kit)
+
+Production-ready starter repo with **CI/CD workflows**, **test coverage enforcement**, **incident runbooks**, **pre-commit hooks**, and **AI coding tool configs** (Cursor, Claude Code, Codex, Copilot). Clone it, customize it, ship.
+
+<details>
+<summary>What's inside</summary>
+
+- **3 GitHub Actions workflows** — PR checks with Ruff auto-fix, test coverage enforcement (posts PR comments with exact test guidance), merge readiness gates
+- **Pre-commit hooks** — Ruff, syntax checks, YAML/JSON/TOML validation, private key detection, branch protection
+- **Issue templates** — Bug reports, incident reports, infrastructure issues
+- **Incident runbook** — Severity classification, triage checklists, diagnostic commands
+- **AI tool instructions** — AGENTS.md, CLAUDE.md, .cursor/rules/, .claude/rules/, .github/copilot-instructions.md
+
+</details>
+
 ### Highlights
 
 - Shipped GenAI solutions for Apple, Meta, Bytedance, and Fortune 500 clients
