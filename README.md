@@ -49,6 +49,21 @@ A local **FastAPI** tool for disciplined monthly investing on the **Pakistan Sto
 
 </details>
 
+[![ai-writing-markers](https://img.shields.io/badge/ai--writing--markers-AI_Writing_Marker_Checker-64ffda?style=for-the-badge&logo=github&logoColor=0a192f)](https://github.com/humzakt/ai-writing-markers)
+
+A source-backed catalogue of **AI-writing markers** with a zero-dependency Python checker. Built as a transparency and self-editing aid — explicitly **not** an AI detector, since detection is probabilistic and biased against non-native and academic writing.
+
+<details>
+<summary>What's inside</summary>
+
+- **`markers.json`** — 6 categories, 87+ markers (overused vocab, formulaic transitions, cliché phrases, structural/rhetorical tells, punctuation/format, statistical), each with era tags and source ids
+- **`check.py`** — zero-dependency CLI that scans any file/stdin, reporting marker hits by category with per-1000-word density
+- **Real burstiness metric** — stdev/mean of sentence length; honest about not faking a perplexity score
+- **Sourced** — distilled from Wikipedia's WikiProject AI Cleanup guide, 2026 detector research, and the peer-reviewed *Patterns* false-positive study
+- **Open data** — MIT (code) / CC0 (dataset)
+
+</details>
+
 ### Highlights
 
 - Shipped GenAI solutions for Apple, Meta, Bytedance, and Fortune 500 clients
